@@ -14,8 +14,4 @@ export class HeroDetailComponent implements OnInit {
   }
 
   @Input() hero: Hero;
-<<<<<<< HEAD
-=======
-
->>>>>>> 3905fced42be981a33ca2ab1434fe86f416b139a
 }
